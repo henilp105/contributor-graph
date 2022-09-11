@@ -5,7 +5,6 @@ This tool is used to generate contributor graphs across repositories. We use Git
 ## Demo
 
 ### GitHub Contributor Over Time for single repo
-
 [![Contributor over time](https://contributor-overtime-api.git-contributor.com/contributors-svg?chart=contributorOverTime&repo=apache/apisix)](https://git-contributor.com?chart=contributorOverTime&repo=apache/apisix)
 
 ### GitHub Contributor Over Time across related repo
